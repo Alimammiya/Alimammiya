@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Alimammiya/Alimammiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for dropping by. My Name is <strong>Alimam Miya</strong>. I'm not a great programmer, I'm a good programmer, with great habits.
 
-Here are some ideas to get you started:
+I am an entrepreneur, technology blogger, speaker, software programmer, web developer, digital marketing expert. I'm passionate about sharing knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write articles on JavaScript, Software Development, Blogging, Web Technologies, Java, Python, C programming, and Cryptography.
+
+I am developing my own website [Use My Notes](https://usemynotes.com/)
+
+This is an educational platform you can get Free Technical Courses here.
+
+<b>You can learn all technical subjects like -</b>
+
+- [C Programming](https://usemynotes.com/java-programming/)
+
+- [Java Programming](https://usemynotes.com/java-programming/)
+
+- [Python for Beginners](https://usemynotes.com/python/)
+
+- [Cryptography & network security](https://usemynotes.com/cryptography/)
