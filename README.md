@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Alimammiya"><img src="https://api.daily.dev/devcards/82310ae9bd8a409294e2147391f37c67.png?r=h4x" width="400" alt="Alimam Miya's Dev Card"/></a>
+<table>
+<tbody>
+<tr>
+<td><p>Thanks for dropping by. My Name is <strong>Alimam Miya</strong>. I'm not a great programmer, I'm a good programmer, with great habits.</p>
 
-Thanks for dropping by. My Name is <strong>Alimam Miya</strong>. I'm not a great programmer, I'm a good programmer, with great habits.
+<p>I am an entrepreneur, technology blogger, speaker, software programmer, web developer, digital marketing expert. I'm passionate about sharing knowledge.</p>
 
-I am an entrepreneur, technology blogger, speaker, software programmer, web developer, digital marketing expert. I'm passionate about sharing knowledge.
+<p>I write articles on JavaScript, Software Development, Blogging, Web Technologies, Java, Python, C programming, and Cryptography.</p>
 
-I write articles on JavaScript, Software Development, Blogging, Web Technologies, Java, Python, C programming, and Cryptography.
+I am developing my own website [Use My Notes](https://usemynotes.com/) 
 
-I am developing my own website [Use My Notes](https://usemynotes.com/)
-
-This is an educational platform you can get Free Technical Courses here.
+<p>This is an educational platform you can get Free Technical Courses here.</p>
+  </td>
+<td><a href="https://app.daily.dev/Alimammiya"><img src="https://api.daily.dev/devcards/82310ae9bd8a409294e2147391f37c67.png?r=h4x" width="400" alt="Alimam Miya's Dev Card"/></a>
+</td>
+</tbody>
+</table>
 
 <b>You can learn all technical subjects like -</b>
 
