@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Alimammiya"><img src="https://api.daily.dev/devcards/82310ae9bd8a409294e2147391f37c67.png?r=h4x" width="400" alt="Alimam Miya's Dev Card"/></a>
+
 Thanks for dropping by. My Name is <strong>Alimam Miya</strong>. I'm not a great programmer, I'm a good programmer, with great habits.
 
 I am an entrepreneur, technology blogger, speaker, software programmer, web developer, digital marketing expert. I'm passionate about sharing knowledge.
@@ -13,11 +15,9 @@ This is an educational platform you can get Free Technical Courses here.
 <b>You can learn all technical subjects like -</b>
 
 - [C Programming](https://usemynotes.com/java-programming/)
-
 - [Java Programming](https://usemynotes.com/java-programming/)
-
 - [Python for Beginners](https://usemynotes.com/python/)
-
+- [JavaScript course for free](https://usemynotes.com/javascript/)
 - [Cryptography & network security](https://usemynotes.com/cryptography/)
 
 <details>
