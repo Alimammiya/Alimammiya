@@ -5,7 +5,7 @@
 <tr>
 <td><p>Thanks for dropping by. My Name is <strong>Alimam Miya</strong>. I'm not a great programmer, I'm a good programmer, with great habits.</p>
 
-<p>I am an entrepreneur, technology blogger, speaker, software programmer, web developer, digital marketing expert. I'm passionate about sharing knowledge.</p>
+<p>I am an entrepreneur, technology blogger, speaker, software programmer, web developer, SEO expert. I'm passionate about sharing knowledge.</p>
 
 <p>I write articles on JavaScript, Software Development, Blogging, Web Technologies, Java, Python, C programming, and Cryptography.</p>
 
