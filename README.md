@@ -9,7 +9,7 @@
 
 <p>I write articles on JavaScript, Software Development, Blogging, Web Technologies, Java, Python, C programming, and Cryptography.</p>
 
-I am developing my own website [Use My Notes](https://usemynotes.com/) 
+I am developing my own website [Alimammiya](https://alimammiya.com/) 
 
 <p>This is an educational platform you can get Free Technical Courses here.</p>
   </td>
