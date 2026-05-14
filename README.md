@@ -26,11 +26,6 @@ I am developing my own website [Use My Notes](https://usemynotes.com/)
 - [JavaScript course for free](https://usemynotes.com/javascript/)
 - [Cryptography & network security](https://usemynotes.com/cryptography/)
 
-<details>
-<summary>📊 Github Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alimammiya&show_icons=true&theme=gotham" alt="Alimam Miya | Stats" />
-</details>
-
 ### Let's connect! Find me on the web.
 
 [twitter]: https://twitter.com/usemynotes
