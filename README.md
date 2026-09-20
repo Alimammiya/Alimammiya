@@ -3,34 +3,40 @@
 <table>
 <tbody>
 <tr>
-<td><p>Thanks for dropping by. My Name is <strong>Alimam Miya</strong>. I'm not a great programmer, I'm a good programmer, with great habits.</p>
+<td>
+<p>Thanks for dropping by. My name is <strong>Alimam Miya</strong> — SEO consultant, digital marketer, Computer Science Engineer, and entrepreneur with 7+ years of experience growing organic traffic for education brands and businesses across India.</p>
 
-<p>I am an entrepreneur, technology blogger, speaker, software programmer, web developer, SEO expert. I'm passionate about sharing knowledge.</p>
+<p>Through <a href="https://alimammiya.com/">Alimammiya</a>, I help brands grow with on-page, off-page, technical, local, and e-commerce SEO, plus free SEO tools. My case studies include a 409% user growth for iQuanta and 2,777% Google Discover click growth for CoachingDaddy.</p>
 
-<p>I write articles on JavaScript, Software Development, Blogging, Web Technologies, Java, Python, C programming, and Cryptography.</p>
-
-I am developing my own website [Alimammiya](https://alimammiya.com/) 
-
-<p>This is an educational platform you can get Free Technical Courses here.</p>
-  </td>
+<p>Through <a href="https://usemynotes.com/">UseMyNotes</a>, I build free exam preparation resources for <strong>GATE, JEE, CAT, IPMAT, CUET, CLAT, and NEET</strong> aspirants, including study material, subject-wise notes, and coaching guides. Some are starred and forked by other students and developers on GitHub.</p>
+</td>
 <td><a href="https://app.daily.dev/Alimammiya"><img src="https://api.daily.dev/devcards/82310ae9bd8a409294e2147391f37c67.png?r=h4x" width="400" alt="Alimam Miya's Dev Card"/></a>
 </td>
+</tr>
 </tbody>
 </table>
 
-<b>You can learn all technical subjects like -</b>
+<b>SEO & digital marketing -</b>
 
-- [C Programming](https://usemynotes.com/java-programming/)
-- [Java Programming](https://usemynotes.com/java-programming/)
+- [SEO Services & Case Studies](https://alimammiya.com/)
+
+<b>Free exam prep resources -</b>
+
+- [GATE Study Material & Notes](https://usemynotes.com/gate/)
+- [JEE Main Study Material](https://usemynotes.com/jee/)
+- CAT, IPMAT, CUET, CLAT & NEET coaching guides on [GitHub Gists](https://gist.github.com/Alimammiya)
+
+<b>Also learn programming -</b>
+
+- [C Programming](https://usemynotes.com/c-programming/)
 - [Python for Beginners](https://usemynotes.com/python/)
 - [JavaScript course for free](https://usemynotes.com/javascript/)
-- [Cryptography & network security](https://usemynotes.com/cryptography/)
 
 ### Let's connect! Find me on the web.
 
-[twitter]: https://twitter.com/usemynotes
+[Twitter]: https://twitter.com/usemynotes
 [Hashnode]: https://alimammiya.hashnode.dev/
-[linkedin]: https://www.linkedin.com/in/alimammiya/
+[LinkedIn]: https://www.linkedin.com/in/alimammiya/
 [Medium]: https://usemynotes.medium.com/
 [Facebook]: https://www.facebook.com/alimammiyan
 
